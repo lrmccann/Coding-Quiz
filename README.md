@@ -1,0 +1,1 @@
+A simple coding quiz designed to test users understanding of Javascript, HTML, and CSS. For something a little more challenging check out my "Coding-Quiz-React" repo and put your props, state, context, and JSX knowledge to the test!
